@@ -32,6 +32,6 @@
   #}{{ __('footer.theme') }} &mdash; {#
   #}<a class="theme-link" href="https://github.com/iissnan/hexo-theme-next">{#
     #}NexT.{{ theme.scheme }}{#
-  #}</a> v{{ theme.version }}{#
+  #}</a>{#
 #}</div>
 {% endif %}
