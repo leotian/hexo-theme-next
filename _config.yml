@@ -11,7 +11,7 @@ override: false
 # ---------------------------------------------------------------
 
 # Put your favicon.ico into `hexo-site/source/` directory.
-favicon: /favicon.ico
+favicon: /images/favicon.png
 
 # Set default keywords (Use a comma to separate)
 keywords: "Hexo, NexT"
@@ -92,8 +92,8 @@ scheme: Muse
 # Key is the link label showing to end users.
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
-#social:
-  #GitHub: https://github.com/yourname || github
+social:
+  GitHub: https://github.com/leotian || github
   #E-Mail: mailto:yourname@gmail.com || envelope
   #Google: https://plus.google.com/yourname || google
   #Twitter: https://twitter.com/yourname || twitter
@@ -103,6 +103,7 @@ scheme: Muse
   #YouTube: https://youtube.com/yourname || youtube
   #Instagram: https://instagram.com/yourname || instagram
   #Skype: skype:yourname?call|chat || skype
+  知乎: https://www.zhihu.com/people/leo.tian
 
 social_icons:
   enable: true
@@ -600,7 +601,7 @@ pace: false
 pace_theme: pace-theme-minimal
 
 # Canvas-nest
-canvas_nest: false
+canvas_nest: true
 
 # three_waves
 three_waves: false
