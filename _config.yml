@@ -135,7 +135,7 @@ toc:
 # Creative Commons 4.0 International License.
 # http://creativecommons.org/
 # Available: by | by-nc | by-nc-nd | by-nc-sa | by-nd | by-sa | zero
-#creative_commons: by-nc-sa
+creative_commons: by-nc-sa
 #creative_commons:
 
 sidebar:
@@ -216,7 +216,7 @@ alipay: /images/alipay.png
 
 # Declare license on posts
 post_copyright:
-  enable: false
+  enable: true
   license: CC BY-NC-SA 3.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/3.0/
 
@@ -327,7 +327,7 @@ han: false
 
 # Disqus
 disqus:
-  enable: true
+  enable: false
   shortname: leotian
   count: false
 
@@ -339,7 +339,6 @@ changyan:
   enable: false
   appid:
   appkey:
-
 
 # Valine.
 # You can get your appid and appkey from https://leancloud.cn
@@ -358,7 +357,7 @@ valine:
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-#livere_uid: your uid
+livere_uid: MTAyMC8zMTA0MS83NTg5
 
 # Baidu Share
 # Available value:
