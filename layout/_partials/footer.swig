@@ -37,5 +37,10 @@
 {% endif %}
 
 <p>Hosted by
-  <a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral" style="font-weight:bold">Upyun</a>
+  <a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral" style="border:0">
+    <img
+      src="/images/upyun_logo.min.svg"
+      style="width: 60px; display: inline; vertical-align: middle;"
+    />
+  </a>
 </p>
