@@ -36,4 +36,6 @@
 #}</div>
 {% endif %}
 
-  <p>Hosted by <a href="https://pages.coding.me" style="font-weight: bold">Coding Pages</a></p>
+<p>Hosted by
+  <a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral" style="font-weight:bold">Upyun</a>
+</p>
