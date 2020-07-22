@@ -43,4 +43,5 @@
       style="width: 60px; display: inline; vertical-align: middle;"
     />
   </a>
+  <a href="http://www.miitbeian.gov.cn/">京ICP备17008411号-1</a>
 </p>
